@@ -1,2 +1,4 @@
 # hello-world
-github manual tutorial
+
+Hi! It's tutorial. How can i use github!
+Thank you
